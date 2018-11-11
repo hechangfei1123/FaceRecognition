@@ -1,8 +1,7 @@
 # FaceRecognition
-使用tensorflow编写的,mtcnn检测的人脸识别项目
+使用pytorch编写的,mtcnn检测的人脸识别项目
 
 项目包含模型训练，测试和运行代码
 
 环境配置(python)
-tensorflow
-opencv
+pythorch
